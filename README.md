@@ -1,2 +1,2 @@
 # Go
-a demo
+my go project
